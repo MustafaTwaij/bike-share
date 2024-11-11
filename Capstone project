@@ -6,9 +6,9 @@ date: "2024-11-10"
 output: html_document
 ---
 
-## Summary of the project:
-## Where the dataset came from:
-## The tools you I'm using to do my analysis:
-## The steps you are taking:
+## Summary of the project: Cyclistic, a bike share program with 5,824 bicycles & 692 docking stations across Chicago. The company sets itself apart by offering assitive options which are used by 8% of riders. Our goal is to Design marketing strategies aimed at converting casual riders into annual members.
+## Where the dataset came from: The dataset comes from previous 12 months of Cyclistic’s historical trip data.  Cyclistic is a fictional company based on publically available DIVVY.LYFT dataset.
+## The tools you I'm using to do my analysis: Excel. R Language
+## The steps you are taking: Prepare, Clean, Analyze, Visulaize & share
 ## Findings/results:
 ## Further questions to examine in the future:
