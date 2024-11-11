@@ -1,6 +1,14 @@
-Summary of the project:
-Where the dataset came from:
-The tools you I'm using to do my analysis:
-The steps you are taking:
-Findings/results:
-Further questions to examine in the future:
+---
+title: 'Cyclistic Bike Share Analysis'
+author: "Mustafa Twaij"
+email: "mustafa.twaij@gmail.com"
+date: "2024-11-10"
+output: html_document
+---
+
+## Summary of the project:
+## Where the dataset came from:
+## The tools you I'm using to do my analysis:
+## The steps you are taking:
+## Findings/results:
+## Further questions to examine in the future:
