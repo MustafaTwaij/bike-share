@@ -1,29 +1,92 @@
 ---
-title: 'Cyclistic Bike Share Analysis'
+title: "Cyclistic Bike Share Analysis"
 author: "Mustafa Twaij"
 email: "mustafa.twaij@gmail.com"
 date: "2024-11-10"
 output: html_document
 ---
 
-## Summary of the project: Cyclistic, a bike share program with 5,824 bicycles & 692 docking stations across Chicago. The company sets itself apart by offering assitive options which are used by 8% of riders. Our goal is to Design marketing strategies aimed at converting casual riders into annual members.
+## Project Overview
+
+**Cyclistic** is a bike share program with 5,824 bicycles and 692 docking stations spread across Chicago. What sets the company apart is its provision of assistive options, which are used by 8% of riders. 
+
+The goal of this analysis is to design marketing strategies aimed at converting casual riders into annual members.
+
+---
+
 ## Pricing Overview
 
-Here is the detailed pricing structure for different types of bike and scooter rides:
+Below is a breakdown of the pricing structure for various bike and scooter ride options offered by Cyclistic:
 
-| **Ride Type**   | **Single Ride**               | **Day Pass**                    | **Membership**              |
-|-----------------|-------------------------------|---------------------------------|-----------------------------|
-| **General**     | $1 unlock + $0.18/min          | $18.10/day                      | $143.90/year               |
-| **Classic Bike**| $1 unlock + $0.18/min          | 3 hours free, then $0.18/min    | 45 min free, then $0.18/min |
-| **Ebike**       | $1 unlock + $0.44/min          | Free unlocks + $0.44/min        | Free unlocks + $0.18/min   |
-| **Scooter**     | $1 unlock + $0.44/min          | Free unlocks + $0.44/min  
+| **Ride Type**    | **Single Ride**                 | **Day Pass**                      | **Membership**                |
+|------------------|----------------------------------|-----------------------------------|-------------------------------|
+| **General**      | $1 unlock + $0.18/min            | $18.10/day                        | $143.90/year                  |
+| **Classic Bike** | $1 unlock + $0.18/min            | 3 hours free, then $0.18/min      | 45 min free, then $0.18/min   |
+| **Ebike**        | $1 unlock + $0.44/min            | Free unlocks + $0.44/min          | Free unlocks + $0.18/min     |
+| **Scooter**      | $1 unlock + $0.44/min            | Free unlocks + $0.44/min          | Free unlocks + $0.29/min     |
 
-## Where the dataset came from: The dataset comes from previous 12 months of Cyclistic’s historical trip data.
-Cyclistic is a fictional company based on publically available DIVVY.LYFT dataset.
-## The tools you I'm using to do my analysis: Excel. R Language, python
-## The steps you are taking: Prepare, Clean, Analyze, Visulaize & share
-## Findings/results: GIven that Chicago has a cold climate, the number of bike rides increase in the summer & spring.
-Memebers tend to use the bikes for work commute while casual riders tend to use them on long strolls whiel visiting touristic areas.
-My best recmmendation as how to convert casual riders into members is actually by offering them the benefit of using the extended bike network in other cities.
-That would intice casual riders to buy the annual membership.## Further questions to examine in the future:
-Full report with visulations is coming
+These pricing models cater to casual riders, tourists, and long-term members, each with different needs and preferences.
+
+---
+
+## Data Source
+
+The dataset for this analysis is based on Cyclistic’s historical trip data collected over the last 12 months. Although Cyclistic is a fictional company, the dataset is modeled after the publicly available DIVVY.LYFT dataset for bike share programs in Chicago.
+
+---
+
+## Tools Used
+
+- **Excel**: Data cleaning and preliminary analysis.
+- **R Language**: Data visualization and advanced analysis.
+- **Python**: Additional statistical modeling (if necessary).
+
+---
+
+## Methodology
+
+The analysis follows these key steps:
+1. **Prepare**: Collect and organize the dataset.
+2. **Clean**: Remove inconsistencies and handle missing data.
+3. **Analyze**: Look for trends in ride durations, frequencies, and usage patterns.
+4. **Visualize**: Create compelling visualizations to highlight key findings.
+5. **Share**: Present the findings and provide actionable insights.
+
+---
+
+## Key Findings
+
+1. **Seasonal Trends**: 
+   - Due to Chicago's cold climate, bike ride numbers increase significantly during the warmer months (spring and summer). 
+
+2. **User Behavior**:
+   - **Members**: Tend to use bikes primarily for work commutes.
+   - **Casual Riders**: Are more likely to use bikes for leisure rides, often in tourist-heavy areas.
+   
+3. **Conversion Opportunity**: 
+   - One of the most effective ways to convert casual riders into members is to offer the benefit of using the extended bike network in other cities. 
+   - This can be a compelling incentive for casual riders to purchase an annual membership, as it enhances the value of the membership beyond just Chicago.
+
+---
+
+## Recommendations
+
+To drive membership conversion, consider these strategies:
+- **Extend the Network**: Partner with other cities or transportation systems to offer reciprocal membership benefits. This could attract casual riders who travel frequently and would value access to bikes in other cities.
+- **Targeted Marketing**: Develop campaigns highlighting the benefits of year-round bike access and emphasize the convenience of membership for both daily commutes and recreational rides.
+
+---
+
+## Further Questions for Future Exploration
+
+- What other benefits could be included in a membership package to make it more appealing to casual riders?
+- How does weather affect the usage of different bike categories (classic bikes vs. ebikes)?
+- What other external factors (e.g., pricing changes, seasonal events) might influence ridership trends?
+
+---
+
+## Conclusion
+
+This analysis of Cyclistic's bike share program reveals significant opportunities to enhance the customer experience and drive membership conversions. By focusing on seasonal trends, user behavior, and offering new benefits like extended network access, Cyclistic can build stronger customer loyalty and increase long-term membership.
+
+A full report with visualizations will be available shortly.
