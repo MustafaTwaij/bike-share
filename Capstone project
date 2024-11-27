@@ -7,6 +7,16 @@ output: html_document
 ---
 
 ## Summary of the project: Cyclistic, a bike share program with 5,824 bicycles & 692 docking stations across Chicago. The company sets itself apart by offering assitive options which are used by 8% of riders. Our goal is to Design marketing strategies aimed at converting casual riders into annual members.
+## Pricing Overview
+
+Here is the detailed pricing structure for different types of bike and scooter rides:
+
+| **Ride Type**   | **Single Ride**               | **Day Pass**                    | **Membership**              |
+|-----------------|-------------------------------|---------------------------------|-----------------------------|
+| **General**     | $1 unlock + $0.18/min          | $18.10/day                      | $143.90/year               |
+| **Classic Bike**| $1 unlock + $0.18/min          | 3 hours free, then $0.18/min    | 45 min free, then $0.18/min |
+| **Ebike**       | $1 unlock + $0.44/min          | Free unlocks + $0.44/min        | Free unlocks + $0.18/min   |
+| **Scooter**     | $1 unlock + $0.44/min          | Free unlocks + $0.44/min  
 ## Where the dataset came from: The dataset comes from previous 12 months of Cyclistic’s historical trip data.  Cyclistic is a fictional company based on publically available DIVVY.LYFT dataset.
 ## The tools you I'm using to do my analysis: Excel. R Language
 ## The steps you are taking: Prepare, Clean, Analyze, Visulaize & share
