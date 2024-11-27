@@ -17,8 +17,13 @@ Here is the detailed pricing structure for different types of bike and scooter r
 | **Classic Bike**| $1 unlock + $0.18/min          | 3 hours free, then $0.18/min    | 45 min free, then $0.18/min |
 | **Ebike**       | $1 unlock + $0.44/min          | Free unlocks + $0.44/min        | Free unlocks + $0.18/min   |
 | **Scooter**     | $1 unlock + $0.44/min          | Free unlocks + $0.44/min  
-## Where the dataset came from: The dataset comes from previous 12 months of Cyclistic’s historical trip data.  Cyclistic is a fictional company based on publically available DIVVY.LYFT dataset.
-## The tools you I'm using to do my analysis: Excel. R Language
+
+## Where the dataset came from: The dataset comes from previous 12 months of Cyclistic’s historical trip data.
+Cyclistic is a fictional company based on publically available DIVVY.LYFT dataset.
+## The tools you I'm using to do my analysis: Excel. R Language, python
 ## The steps you are taking: Prepare, Clean, Analyze, Visulaize & share
-## Findings/results: GIven that Chicago has a cold climate, the number of bike rides increase in the summer & spring. Memebers tend to use the bikes for work commute while casual riders tend to use them on long strolls whiel visiting touristic areas. My best recmmendation as how to convert casual riders into members is actually by offering them the benefit of using the extended bike network in other cities. That would intice casual riders to buy the annual membership.## Further questions to examine in the future:
+## Findings/results: GIven that Chicago has a cold climate, the number of bike rides increase in the summer & spring.
+Memebers tend to use the bikes for work commute while casual riders tend to use them on long strolls whiel visiting touristic areas.
+My best recmmendation as how to convert casual riders into members is actually by offering them the benefit of using the extended bike network in other cities.
+That would intice casual riders to buy the annual membership.## Further questions to examine in the future:
 Full report with visulations is coming
